@@ -10,7 +10,7 @@ namespace: dev
 
 commonLabels:
   env: dev
-  app: helloworld
+  app: argocd
 
 resources:
 - argocd-depl.yaml
